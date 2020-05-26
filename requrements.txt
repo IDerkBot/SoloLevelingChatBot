@@ -1,0 +1,3 @@
+vk_api
+vk_api.bot_longpoll
+pymysql
